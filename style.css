@@ -16,7 +16,7 @@ button {
     font-size: 40px
   }
 }
-@media (min-width: 1px) {
+@media (min-width: 1px) and (max-width: 1199px) {
   button {
     font-size: 50px
   }
