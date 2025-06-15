@@ -6,7 +6,8 @@ div {
 }
 button {
   background-color: black;
-  color: rgb(19, 66, 142)
+  color: rgb(19, 66, 142);
+  
 }
 #title {
   text-align: center
@@ -15,14 +16,8 @@ button {
   body {
     font-size: 30px
   }
-  button {
-    font-size: 20px
-  }  
 }
 @media (min-width: 1px) and (max-width: 1199px) {
-  button {
-    font-size: 50px
-  }
   body {
     font-size: 45px
   }
